@@ -1,5 +1,4 @@
 # PuzzleCam — Gesture Capture
-**© 2026 aiwithunnati — all rights reserved**
 
 A hand-gesture controlled photobooth puzzle game that runs entirely in your browser. No installation, no backend, no frameworks. Just your hands and a webcam.
 
@@ -13,13 +12,7 @@ Built with vanilla JavaScript, MediaPipe hand tracking, and the Web Audio API. N
 
 ---
 
-## how to run it
-
-**1. clone the repo**
-```bash
-git clone https://github.com/Unnati-23/puzzlecam.git
-cd puzzlecam
-```
+## how to run it 
 
 **2. open in VS Code and click Go Live**
 
